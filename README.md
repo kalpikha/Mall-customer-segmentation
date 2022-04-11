@@ -1,5 +1,7 @@
 # Mall-customer-segmentation
 
+Dataset from https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
+
 • Visualized data for explanatory data analysis
 
 • K-means clustering has been used for segmentation of customers
